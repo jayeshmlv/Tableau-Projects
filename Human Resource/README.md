@@ -20,8 +20,7 @@ An interactive Tableau dashboard designed to analyze workforce demographics, emp
 
 ## Dashboard Link
 
-📊 Live Dashboard:  
-https://public.tableau.com/app/profile/jayesh.malviya/viz/HRDashboardFormat/Dashboard1
+📊 Live Dashboard: https://public.tableau.com/app/profile/jayesh.malviya/viz/HRDashboardFormat/Dashboard1
 
 ## Skills Demonstrated
 
